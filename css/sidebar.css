@@ -1,0 +1,19 @@
+.sidebar{
+    margin-right: 2em;
+    margin-top: 3em;
+    box-shadow: var(--shadow-1);
+    width: 100%;
+    height: fit-content;
+}
+.header {
+    background-color: var(--lima);
+    font-weight: 400;
+    text-align: center;
+    color: var(--light);
+    font-size: 20px;
+    padding: 1em;
+}
+.filter-group h2{
+    margin: 1em;
+    
+}
